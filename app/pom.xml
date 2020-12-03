@@ -163,7 +163,7 @@
         <dependency>
             <groupId>com.google.api-client</groupId>
             <artifactId>google-api-client-android</artifactId>
-            <version>1.15.0-rc</version>
+            <version>1.28.0</version>
             <exclusions>
                 <exclusion>
                     <artifactId>xpp3</artifactId>
